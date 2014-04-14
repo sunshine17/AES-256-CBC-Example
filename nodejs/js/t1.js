@@ -1,4 +1,5 @@
-var encrypt = require('./encrypt');
+//var encrypt = require('./encrypt');
+var encrypt = require('./encrypt-0.1');
 
 //var src = 'Hello,CryptWorld';
 var src = 'Hello,CryptWorld|ok|1934';
